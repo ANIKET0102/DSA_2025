@@ -28,6 +28,14 @@ odd :   |_|_|_|
 
 Timecomplexity for this problem will be O(n) Big Oh of 'n'.
 
+In competetive exams we use different platforms where we use 'vector' instead of 'array' they both same.
+
+Questions : 
+1) WAF to calculate sum and product of all numbers in an array. 
+2) WAF to swap the max & min number of an array. 
+3) WAF to print all the unique values in an array. 
+4) WAF to print intersection of 2 arrays. 
+
 
 */
 
