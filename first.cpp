@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
+    // to find positive of negative
     // int n = 5;
     // cout<<(n>=0 ? "positive" : "negative")<<endl;
     // return 0;
