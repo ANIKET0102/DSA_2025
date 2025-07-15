@@ -1,4 +1,5 @@
 #include <iostream>
+#include <typeinfo>
 using namespace std;
 
 int main()
@@ -71,7 +72,40 @@ int main()
     // }else{
     //     cout<<"NON PRIME"<<endl;
     // }
+
+
+
+
+
+
+
+
+
+
+
+    /*
     
+    char         8 bits
+    short        16 bits
+    int          32 bit
+    long long    63 bits
+    float        32 bits
+    double       64 bits
+    bool         8 bits
+    
+    */
+    
+
+
+
+    auto a  = 10;
+    auto k = "bit";
+    cout<<a;
+
+    cout <<typeid(a).name()<<endl;
+    cout <<typeid(k).name()<<endl;
+
+
 
     return 0;
 }
